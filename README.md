@@ -120,7 +120,7 @@ Ejecutar el servidor local:
 
 ¡Y eso es todo! Ahora deberías tener el proyecto de GitHub de Laravel 8 instalado y en funcionamiento en tu entorno local. Asegúrate de revisar cualquier documentación adicional proporcionada por el repositorio para obtener instrucciones específicas si es necesario.
 
-#Para ingresar al sistema en url agregar login 
+# Para ingresar al sistema en url agregar login 
 
 example 
 http//localhost/login
