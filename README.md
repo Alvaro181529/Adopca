@@ -100,18 +100,7 @@ Instalar dependencias:
 
     composer install
 
-Configurar el archivo de entorno:
 
-    Crea una copia del archivo .env.example y renómbralo a .env.
-    Abre el archivo .env en un editor de texto y configura los valores de configuración necesarios, como la conexión de base de datos y las credenciales de API.
-
-Generar una clave de aplicación:
-
-    En la terminal, ejecuta el siguiente comando para generar una clave de aplicación única:
-
-    vbnet
-
-    php artisan key:generate
 
 Ejecutar migraciones y semillas (si es necesario):
 
@@ -130,5 +119,11 @@ Ejecutar el servidor local:
         Abre tu navegador web y visita la URL proporcionada por el comando anterior. Por lo general, será http://localhost:8000.
 
 ¡Y eso es todo! Ahora deberías tener el proyecto de GitHub de Laravel 8 instalado y en funcionamiento en tu entorno local. Asegúrate de revisar cualquier documentación adicional proporcionada por el repositorio para obtener instrucciones específicas si es necesario.
+
+#Para ingresar al sistema en url agregar login 
+
+example 
+http//localhost/login
+http//127.0.0.1/login
 
 
